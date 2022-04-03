@@ -1,0 +1,1 @@
+web: gunicorn c0d3-bl0g.wsgi
